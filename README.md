@@ -1,3 +1,5 @@
+#https://scholar.smu.edu/cgi/viewcontent.cgi?article=1775&context=smulr
+#https://help.openai.com/en/articles/10984597-chatgpt-generated-links
 # Reconciliation-
 Just words if wanting to read
 To practice reverse thinking on reconciliation, we turn the standard framework upside down. Instead of starting with ideal outcomes or abstract aspirations, we examine the precise mechanisms of past structural failures—unilateral decision-making, tokenistic involvement, extractive data practices, and top-down institutional control—and systematically engineer their inverses.
